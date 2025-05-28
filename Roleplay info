@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your RP Server Name</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Your Roleplay Server</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#departments">Departments</a>
+      <a href="#apply">Apply</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Welcome to our roleplay server! We offer immersive RP experiences in Police, Fire, EMS, SWAT, and DOT departments.</p>
+  </section>
+
+  <section id="departments">
+    <h2>Departments</h2>
+    <ul>
+      <li>🚓 Police Department</li>
+      <li>🚒 Fire Department</li>
+      <li>🚑 EMS</li>
+      <li>🛠️ DOT</li>
+      <li>🛡️ SWAT</li>
+    </ul>
+  </section>
+
+  <section id="apply">
+    <h2>Apply Now</h2>
+    <p><a href="https://forms.gle/yourformlink" target="_blank">Click here to apply for staff or departments</a>.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Join our Discord: <a href="https://discord.gg/yourserverinvite" target="_blank">discord.gg/yourserverinvite</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Your RP Server. All rights reserved.</p>
+  </footer>
+</body>
+</html>
